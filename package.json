@@ -1,0 +1,27 @@
+{
+  "name": "undercover",
+  "version": "0.1.0",
+  "description": "Undercover mode for AI agents — strips AI signatures from code and commit messages before pushing to open-source.",
+  "type": "module",
+  "bin": {
+    "undercover-mcp": "./mcp/server.mjs"
+  },
+  "files": [
+    "mcp/",
+    ".claude/",
+    "AGENTS.md",
+    "CLAUDE.md",
+    ".github/copilot-instructions.md"
+  ],
+  "keywords": [
+    "ai-agent",
+    "claude-code",
+    "mcp",
+    "skill",
+    "git",
+    "open-source",
+    "ai-signatures",
+    "undercover"
+  ],
+  "license": "MIT"
+}
