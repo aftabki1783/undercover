@@ -1,6 +1,12 @@
 # undercover
 
-> AI agent skill — strips AI signatures from code before you push to open-source.
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![MCP compatible](https://img.shields.io/badge/MCP-compatible-blueviolet)](https://modelcontextprotocol.io)
+[![Works with Claude Code](https://img.shields.io/badge/Claude%20Code-skill-orange)](https://claude.ai/code)
+[![Works with Copilot](https://img.shields.io/badge/GitHub%20Copilot-instructions-24292f)](https://docs.github.com/en/copilot)
+[![Works with Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-AGENTS.md-4285F4)](https://github.com/google-gemini/gemini-cli)
+
+> Undercover mode for AI agents — strips AI signatures from code before you push to open-source.
 
 AI-generated code has identifiable fingerprints: step-numbered comment headers, first-person-plural prose ("Let's start by...", "We can now..."), emoji in docstrings, vague placeholder TODOs, verbose JSDoc, and passive-tense commit messages. These cluster in diffs and expose contributors to "AI-labeling" bias during open-source review.
 
